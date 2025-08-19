@@ -11,3 +11,6 @@ The design of this piece was created in Autodesk Inventor, using a familiar bran
 
 ## CAM Development in Autodesk Inventor
 <img width="1920" height="1080" alt="A" src="assets/cam_ss.png" />
+
+## Drawing of the Piece 
+<img width="1920" height="1080" alt="A" src="assets/drawing.png" />
