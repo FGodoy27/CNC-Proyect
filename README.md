@@ -8,3 +8,6 @@ The repository includes the G code, drawings of the part, and a final image of t
 The design of this piece was created in Autodesk Inventor, using a familiar brand as a reference, and the logo was created from scratch to achieve the following result.
 
 <img width="1920" height="1080" alt="A" src="assets/figure_ss.png" />
+
+## CAM Development in Autodesk Inventor
+<img width="1920" height="1080" alt="A" src="assets/cam_ss.png" />
